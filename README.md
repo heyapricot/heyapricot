@@ -1,4 +1,6 @@
 ![image](images/header.gif)
+# Status 🚥
+#### _*Looking for new opportunities*_ 👀✨
 # Technical Proficiencies 💡
 ## Languages ✍️
 ### Programming 👩‍💻
